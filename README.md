@@ -23,7 +23,7 @@ This project explores consumer behavior during the Diwali festival using a real-
 ## 🔧 Tools & Technologies
 
 - **Language:** Python
-- **Libraries:** Pandas, Matplotlib, Seaborn
+- **Libraries:** Numpy, Pandas, Matplotlib, Seaborn
 - **IDE:** Jupyter Notebook / Google Colab
 
 ---
