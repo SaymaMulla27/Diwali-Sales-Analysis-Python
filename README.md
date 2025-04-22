@@ -94,7 +94,7 @@ The analysis answers several business questions with the help of visualizations:
 ## 🙋‍♀️ About Me
 
 **Sayma** – Aspiring Data Analyst on the road to becoming a Data Scientist 🚀  
-📌 Passionate about storytelling through data, real-world business problems, and festive snacks 😄  
+📌 Passionate about storytelling through data, real-world business problems. 
 🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
