@@ -1,4 +1,3 @@
-# Python-Diwali-Sales-Analysis
 # 🪔 Diwali Sales Analysis using Python
 
 ## 📊 Project Overview
@@ -74,33 +73,3 @@ The analysis answers several business questions with the help of visualizations:
 | Products         | Food, clothing, electronics are top-selling categories                  |
 
 ---
-
-## 🔮 Possible Future Improvements
-
-- Integrate with **Plotly** or **Streamlit** for interactive dashboards
-- Apply **predictive analytics**: Which user segment is likely to buy next?
-- Create **monthly trend** reports
-- Build a customer segmentation model (K-means or clustering)
-
----
-
-## 🎥 Demo & Source Code
-
-- 📺 YouTube Walkthrough: [Watch here](https://www.youtube.com/@RishabhMishraOfficial)
-- 💻 GitHub Repo: [Python_Diwali_Sales_Analysis](https://github.com/rishabhnmishra/Python_Diwali_Sales_Analysis)
-
----
-
-## 🙋‍♀️ About Me
-
-**Sayma** – Aspiring Data Analyst on the road to becoming a Data Scientist 🚀  
-📌 Passionate about storytelling through data, real-world business problems. 
-🔗 [LinkedIn](#) | [GitHub](#)
-
----
-
-## 🌟 Acknowledgement
-
-Inspired by **Rishabh Mishra’s** awesome walkthrough.  
-Check out his YouTube for more cool data projects!
-
